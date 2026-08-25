@@ -1,15 +1,17 @@
 ---
-title: hiwujie.top
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: <code>hiwujie.top</code>
+  text: <code>AI 最前線の思考</code>
+  tagline: AI の最前線についての思考と探索を記録する
+  actions:
+    - theme: brand
+      text: 最新記事を読む
+      link: /ja/posts/ai-reasoning-paradigm-shift
+    - theme: alt
+      text: について
+      link: /ja/about/
+
 ---
-
-# hiwujie.top
-
-AI 最前線の思考と探求を記録します。
-
-## 最新記事
-
-- [AI 推論のパラダイムシフト](./posts/ai-reasoning-paradigm-shift) — 2024-10
-
----
-
-> [GitHub](https://github.com/hiwujie) からご連絡ください

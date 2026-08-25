@@ -1,15 +1,17 @@
 ---
-title: hiwujie.top
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: <code>hiwujie.top</code>
+  text: <code>AI 前沿思考</code>
+  tagline: 记录关于 AI 前沿的思考与探索
+  actions:
+    - theme: brand
+      text: 阅读最新文章
+      link: /zh/posts/ai-reasoning-paradigm-shift
+    - theme: alt
+      text: 关于
+      link: /zh/about/
+
 ---
-
-# hiwujie.top
-
-记录关于 AI 前沿的思考与探索。
-
-## 最新文章
-
-- [AI 推理的范式转变](./posts/ai-reasoning-paradigm-shift) — 2024-10
-
----
-
-> 欢迎通过 [GitHub](https://github.com/hiwujie) 联系我
