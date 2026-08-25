@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: <code>hiwujie.top</code>
+  name: <code>睿思奇想</code>
   text: <code>Cutting-edge AI Thoughts</code>
   tagline: Exploring thoughts on the frontier of AI
   actions:

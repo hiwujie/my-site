@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'hiwujie.top',
+  title: '睿思奇想',
   description: 'AI 前沿思考 | Cutting-edge AI Thoughts | AI 最前線の思考',
   cleanUrls: true,
   lastUpdated: true,
@@ -18,12 +18,12 @@ export default defineConfig({
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
     ['link', { href: 'https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Noto+Sans+SC:wght@100..900&family=Noto+Sans+JP:wght@100..900&display=swap', rel: 'stylesheet' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['meta', { name: 'og:title', content: 'hiwujie.top - AI 前沿思考' }],
+    ['meta', { name: 'og:title', content: '睿思奇想 - AI 前沿思考' }],
     ['meta', { property: 'og:description', content: '记录关于 AI 前沿的思考与探索' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: 'https://hiwujie.top' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'hiwujie.top - AI 前沿思考' }],
+    ['meta', { name: 'twitter:title', content: '睿思奇想 - AI 前沿思考' }],
     ['meta', { name: 'twitter:description', content: '记录关于 AI 前沿的思考与探索' }],
   ],
 
@@ -38,7 +38,7 @@ export default defineConfig({
     zh: {
       lang: 'zh-CN',
       label: '中文',
-      title: 'hiwujie.top',
+      title: '睿思奇想',
       description: 'AI 前沿思考',
       themeConfig: {
         nav: [
@@ -94,7 +94,7 @@ export default defineConfig({
     en: {
       lang: 'en',
       label: 'English',
-      title: 'hiwujie.top',
+      title: '睿思奇想',
       description: 'Cutting-edge AI Thoughts',
       themeConfig: {
         nav: [
@@ -150,7 +150,7 @@ export default defineConfig({
     ja: {
       lang: 'ja',
       label: '日本語',
-      title: 'hiwujie.top',
+      title: '睿思奇想',
       description: 'AI 最前線の思考',
       themeConfig: {
         nav: [

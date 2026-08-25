@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: <code>hiwujie.top</code>
+  name: <code>睿思奇想</code>
   text: <code>AI 最前線の思考</code>
   tagline: AI の最前線についての思考と探索を記録する
   actions:

@@ -1,5 +1,5 @@
 ---
-title: hiwujie.top
+title: 睿思奇想
 ---
 
 <script setup>
@@ -12,6 +12,6 @@ if (typeof window !== 'undefined') {
 }
 </script>
 
-# hiwujie.top
+# 睿思奇想
 
 正在跳转到适合你的语言版本...
