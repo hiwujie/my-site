@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Read the Latest Post
-      link: /en/posts/ai-reasoning-paradigm-shift
+      link: /en/posts/bitter-lesson-in-biomedicine
     - theme: alt
       text: About
       link: /en/about/

@@ -4,4 +4,4 @@ title: Posts
 
 # Posts
 
-- [The Paradigm Shift in AI Reasoning](./ai-reasoning-paradigm-shift)
+- [The Bitter Lesson Is Knocking on Biomedicine's Door](./bitter-lesson-in-biomedicine)

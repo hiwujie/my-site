@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 最新記事を読む
-      link: /ja/posts/ai-reasoning-paradigm-shift
+      link: /ja/posts/bitter-lesson-in-biomedicine
     - theme: alt
       text: について
       link: /ja/about/

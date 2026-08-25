@@ -4,4 +4,4 @@ title: 文章
 
 # 文章
 
-- [AI 推理的范式转变](./ai-reasoning-paradigm-shift)
+- [苦涩的教训，正在叩响生物医药的大门](./bitter-lesson-in-biomedicine)

@@ -49,7 +49,7 @@ export default defineConfig({
           {
             text: 'AI 前沿思考',
             items: [
-              { text: 'AI 推理的范式转变', link: '/zh/posts/ai-reasoning-paradigm-shift' },
+              { text: '苦涩的教训，正在叩响生物医药的大门', link: '/zh/posts/bitter-lesson-in-biomedicine' },
             ],
           },
         ],
@@ -105,7 +105,7 @@ export default defineConfig({
           {
             text: 'AI Thoughts',
             items: [
-              { text: 'The Paradigm Shift in AI Reasoning', link: '/en/posts/ai-reasoning-paradigm-shift' },
+              { text: 'The Bitter Lesson Is Knocking on Biomedicine\'s Door', link: '/en/posts/bitter-lesson-in-biomedicine' },
             ],
           },
         ],
@@ -161,7 +161,7 @@ export default defineConfig({
           {
             text: 'AI 最前線の思考',
             items: [
-              { text: 'AI 推論のパラダイムシフト', link: '/ja/posts/ai-reasoning-paradigm-shift' },
+              { text: '苦い教訓（The Bitter Lesson）が創薬の扉を叩いている', link: '/ja/posts/bitter-lesson-in-biomedicine' },
             ],
           },
         ],
