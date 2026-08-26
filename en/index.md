@@ -3,9 +3,10 @@
 layout: home
 
 hero:
-  name: <code>睿思奇想</code>
+  name: <code>Wu-Think</code>
   text: <code>Cutting-edge AI Thoughts</code>
   tagline: Exploring thoughts on the frontier of AI
+  image: /img.jpg
   actions:
     - theme: brand
       text: Read the Latest Post

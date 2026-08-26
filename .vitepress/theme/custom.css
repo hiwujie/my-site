@@ -6,3 +6,27 @@
 sup a {
   text-decoration: none !important;
 }
+
+/* 首页 hero 图片：默认限制 320px 且容器左上偏移 32px，竖版图显得又小又偏 */
+.VPHero .image-src {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+@media (min-width: 640px) {
+  .VPHero .image-src {
+    max-width: 380px;
+    max-height: 380px;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPHero .image-container {
+    transform: translate(0, 0);
+  }
+
+  .VPHero .image-src {
+    max-width: 420px;
+    max-height: 420px;
+  }
+}

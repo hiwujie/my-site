@@ -94,7 +94,7 @@ export default defineConfig({
     en: {
       lang: 'en',
       label: 'English',
-      title: '睿思奇想',
+      title: 'Wu-Think',
       description: 'Cutting-edge AI Thoughts',
       themeConfig: {
         nav: [
@@ -150,7 +150,7 @@ export default defineConfig({
     ja: {
       lang: 'ja',
       label: '日本語',
-      title: '睿思奇想',
+      title: 'Wu-Think',
       description: 'AI 最前線の思考',
       themeConfig: {
         nav: [
