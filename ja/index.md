@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 最新記事を読む
-      link: /ja/posts/bitter-lesson-in-biomedicine
+      link: /ja/posts/when-machines-master-knowledge
     - theme: alt
       text: について
       link: /ja/about/

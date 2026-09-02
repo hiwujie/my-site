@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Read the Latest Post
-      link: /en/posts/bitter-lesson-in-biomedicine
+      link: /en/posts/when-machines-master-knowledge
     - theme: alt
       text: About
       link: /en/about/

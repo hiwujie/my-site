@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 阅读最新文章
-      link: /zh/posts/bitter-lesson-in-biomedicine
+      link: /zh/posts/when-machines-master-knowledge
     - theme: alt
       text: 关于
       link: /zh/about/

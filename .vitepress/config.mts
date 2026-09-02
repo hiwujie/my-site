@@ -49,6 +49,7 @@ export default defineConfig({
           {
             text: 'AI 前沿思考',
             items: [
+              { text: '当机器掌握知识，人类当守护神秘', link: '/zh/posts/when-machines-master-knowledge' },
               { text: '苦涩的教训，正在叩响生物医药的大门', link: '/zh/posts/bitter-lesson-in-biomedicine' },
             ],
           },
@@ -105,6 +106,7 @@ export default defineConfig({
           {
             text: 'AI Thoughts',
             items: [
+              { text: 'When Machines Master Knowledge, Humans Must Guard Mystery', link: '/en/posts/when-machines-master-knowledge' },
               { text: 'The Bitter Lesson Is Knocking on Biomedicine\'s Door', link: '/en/posts/bitter-lesson-in-biomedicine' },
             ],
           },
@@ -161,6 +163,7 @@ export default defineConfig({
           {
             text: 'AI 最前線の思考',
             items: [
+              { text: '機械が知識を掌握する時代、人間は神秘を守らねばならない', link: '/ja/posts/when-machines-master-knowledge' },
               { text: '苦い教訓（The Bitter Lesson）が創薬の扉を叩いている', link: '/ja/posts/bitter-lesson-in-biomedicine' },
             ],
           },
